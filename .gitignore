@@ -1,0 +1,58 @@
+# Ignore build files
+/build/
+bin/
+out/
+
+# Ignore object files, static libraries, and executables
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.obj
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore debugging symbols
+*.dSYM/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio specific files
+.vs/
+.vs2019/
+.vs2017/
+
+# Ignore Code::Blocks project files
+*.depend
+*.cbp
+*.layout
+
+# Ignore Qt Creator project files
+*.pro.user
+*.qmake.stash
+
+# Ignore temporary files created by editors or during compilation
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore generated documentation
+*.dox
+
+# Ignore valgrind output
+valgrind-out.*
+
