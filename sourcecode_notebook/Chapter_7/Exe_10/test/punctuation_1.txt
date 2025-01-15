@@ -1,0 +1,6 @@
+cplus?plus
+c-plus-plus
+?cplusplus?
+cplus$plus$
+cplusplus^^
+_c_plus_plus_

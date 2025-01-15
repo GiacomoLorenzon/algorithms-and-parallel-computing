@@ -1,0 +1,20 @@
+#ifndef MATRIX_H_
+#define MATRIX_H_
+
+class Matrix
+{
+???
+  ??? n_rows;
+  ??? n_cols;
+
+public:
+  Matrix (unsigned rows, unsigned cols);
+
+  ??? get_elem (unsigned i, unsigned j) ???
+  ??? set_elem (unsigned i, unsigned j, double value) ???
+
+  ??? get_n_cols() ???
+  ??? get_n_rows() ???
+};
+
+#endif /* MATRIX_H_ */
