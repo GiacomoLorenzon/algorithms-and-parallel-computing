@@ -17,6 +17,9 @@ CMakeCache.txt
 CMakeFiles/
 CMakeLists.txt.user
 
+# Ignore CLion CMake build folders
+cmake-build-debug/
+
 # Ignore IDE/editor-specific files
 .vscode/
 .idea/
