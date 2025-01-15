@@ -1,0 +1,3 @@
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Excercises/Ex00/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Excercises/Ex00/cmake-build-debug/CMakeFiles/Ex00.dir
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Excercises/Ex00/cmake-build-debug/CMakeFiles/rebuild_cache.dir

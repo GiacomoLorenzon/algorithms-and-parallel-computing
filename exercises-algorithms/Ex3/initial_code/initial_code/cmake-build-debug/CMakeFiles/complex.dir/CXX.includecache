@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Classroom excercises/Ex3 - complex/initial_code/initial_code/Complex.cpp
+Complex.h
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Classroom excercises/Ex3 - complex/initial_code/initial_code/Complex.h
+cmath
+-
+limits
+-
+iostream
+-
+
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Classroom excercises/Ex3 - complex/initial_code/initial_code/Complex.h
+
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Classroom excercises/Ex3 - complex/initial_code/initial_code/main.cpp
+iostream
+-
+Complex.h
+C:/Users/loren/OneDrive - Politecnico di Milano/APC/Classroom excercises/Ex3 - complex/initial_code/initial_code/Complex.h
+
